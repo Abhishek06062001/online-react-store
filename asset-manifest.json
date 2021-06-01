@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/online-react-store/static/css/main.09a51a77.chunk.css",
+    "main.js": "/online-react-store/static/js/main.a7a85cf4.chunk.js",
+    "main.js.map": "/online-react-store/static/js/main.a7a85cf4.chunk.js.map",
+    "runtime-main.js": "/online-react-store/static/js/runtime-main.f526f71c.js",
+    "runtime-main.js.map": "/online-react-store/static/js/runtime-main.f526f71c.js.map",
+    "static/js/2.ead1da92.chunk.js": "/online-react-store/static/js/2.ead1da92.chunk.js",
+    "static/js/2.ead1da92.chunk.js.map": "/online-react-store/static/js/2.ead1da92.chunk.js.map",
+    "static/js/3.b39d1507.chunk.js": "/online-react-store/static/js/3.b39d1507.chunk.js",
+    "static/js/3.b39d1507.chunk.js.map": "/online-react-store/static/js/3.b39d1507.chunk.js.map",
+    "index.html": "/online-react-store/index.html",
+    "static/css/main.09a51a77.chunk.css.map": "/online-react-store/static/css/main.09a51a77.chunk.css.map",
+    "static/js/2.ead1da92.chunk.js.LICENSE.txt": "/online-react-store/static/js/2.ead1da92.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/online-react-store/static/media/banner.380a65bb.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f526f71c.js",
+    "static/js/2.ead1da92.chunk.js",
+    "static/css/main.09a51a77.chunk.css",
+    "static/js/main.a7a85cf4.chunk.js"
+  ]
+}
